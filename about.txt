@@ -2,3 +2,5 @@ Name: Azeez
 School: Savonia
 Dept: IT
 Group: EF20SP
+Level:300
+GPA: 4.45
